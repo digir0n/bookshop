@@ -23,6 +23,7 @@ Add books to book list with the following info
 Features
 - Books added are always listed in alphabetical sequence
 - Cover image has browse to select and default book image in root
+- Cover has click to display larger image with close overlay
 - Book list is searchable by Title with partial text support
 - Search for matching Title scrolls down book list to 1st match,
   and clicking Search button again will continue to scroll down list to match next
